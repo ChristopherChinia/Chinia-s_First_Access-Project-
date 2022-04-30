@@ -5,8 +5,29 @@
     font-size: large;
     float: left;
 }
+.white{
+    border: 1px solid #EC4067;
+    margin-left: 5%;
+    color: #EC4067;
+    font-size: 20px;
+    border-radius: 5px;
+}
 .pink{
-    float: right;
+    border: 1px solid #EC4067 ;
+    background-color: #EC4067;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.pink-1{
+    float:right;
+    border: 1px solid #EC4067 ;
+    background-color: #EC4067;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: 700;
+    border-radius: 5px;
 }
 .black{
     color: black;
@@ -36,6 +57,82 @@
     font: 1em sans-serif;
     font-size: smaller;
 }
-.image{
+#day{
+    margin-left: 20%;
+}
+.meeting{
+    margin-left: 20%;
+}
+.sec{
+    display: flex;
+    flex-direction:row ;
+}
+.fin{
+    display: flex;
+    flex-direction: row;
+}
+.bike{
+    margin-left: 20%;
+}
+.a{
     float: right;
+    background-color: #EC4067;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: 500;
+    border-radius: 5px;
+    border: 1px solid #EC4067;
+
+}
+#link{
+    color: aliceblue;
+}
+div{
+    height: 100%;
+}
+.title{
+    width: 100%;
+}
+#title{
+    width: fit-content;
+}
+.z{
+    background-color: aliceblue;
+}
+.moringa{
+    display: flex;
+    width: 800px;
+}
+.image{
+    margin-left: 20%;
+}
+.section-3{
+    display: flex;
+    width: 800px;  
+}
+.section-2{
+    width: 800px;
+    display: flex;
+}
+.image-3{
+    margin-left: 20%;
+}
+.section-4{
+    width: 800px;
+    display: flex;
+}
+.Graduation{
+margin-left: 20%;
+}
+.section-5{
+    display: flex;
+    width: 800px;
+}
+.pi{
+    background-color: #EC4067;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: 500;
+    border-radius: 5px;
+    border: 1px solid #EC4067;
 }
