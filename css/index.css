@@ -22,10 +22,12 @@
 }
 .pink-1{
     float:right;
+    border: 1px solid #EC4067 ;
     background-color: #EC4067;
     color: antiquewhite;
     font-size: large;
     font-weight: 700;
+    border-radius: 5px;
 }
 .black{
     color: black;
