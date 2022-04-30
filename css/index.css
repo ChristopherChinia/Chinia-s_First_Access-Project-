@@ -7,6 +7,10 @@
 }
 .pink{
     float: right;
+    background-color: #EC4067;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: 700;
 }
 .black{
     color: black;
@@ -38,6 +42,9 @@
 }
 .image{
     float: right;
+    padding-top: 70px;
+    padding-left: 140px;
+    padding-right: 140px;
 }
 .stories{
 
@@ -72,4 +79,29 @@
 }
 #this{
 float: left;
+}
+.a{
+    float: right;
+    background-color: #EC4067;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: 500;
+}
+#link{
+    color: aliceblue;
+}
+div{
+    height: 100%;
+}
+.title{
+    width: 100%;
+}
+#title{
+    width: fit-content;
+}
+.z{
+    background-color: aliceblue;
+}
+div{
+    width: 100%;
 }
