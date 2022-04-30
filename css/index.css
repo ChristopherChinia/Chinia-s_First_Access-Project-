@@ -59,3 +59,17 @@
 }.party{
     float: left;
 }
+.sec{
+    display: flex;
+    flex-direction:row ;
+}
+.fin{
+    display: flex;
+    flex-direction: row;
+}
+.bike{
+    float: right;
+}
+#this{
+float: left;
+}
