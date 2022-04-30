@@ -5,8 +5,23 @@
     font-size: large;
     float: left;
 }
+.white{
+    border: 1px solid #EC4067;
+    margin-left: 5%;
+    color: #EC4067;
+    font-size: 20px;
+    border-radius: 5px;
+}
 .pink{
-    float: right;
+    border: 1px solid #EC4067 ;
+    background-color: #EC4067;
+    color: antiquewhite;
+    font-size: large;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.pink-1{
+    float:right;
     background-color: #EC4067;
     color: antiquewhite;
     font-size: large;
@@ -40,31 +55,11 @@
     font: 1em sans-serif;
     font-size: smaller;
 }
-.image{
-    float: right;
-    padding-top: 70px;
-    padding-left: 140px;
-    padding-right: 140px;
-}
-.stories{
-
-}
-#s{
-
-}
-.group{
-    float: left;
-}
 #day{
-    float: left;
+    margin-left: 20%;
 }
 .meeting{
-    float: right;
-}
-.BM{
-    float: left;
-}.party{
-    float: left;
+    margin-left: 40%;
 }
 .sec{
     display: flex;
@@ -102,6 +97,27 @@ div{
 .z{
     background-color: aliceblue;
 }
-div{
-    width: 100%;
+.moringa{
+    display: flex;
+    width: 800px;
+}
+.image{
+    margin-left: 20%;
+}
+.section-3{
+    display: flex;
+    width: 800px;  
+}
+.section-2{
+    width: 800px;
+    display: flex;
+}
+.image-3{
+    margin-left: 20%;
+}.section-4{
+    width: 800px;
+    display: flex;
+}
+.Graduation{
+margin-left: 20%;
 }
