@@ -72,10 +72,7 @@
     flex-direction: row;
 }
 .bike{
-    float: right;
-}
-#this{
-float: left;
+    margin-left: 20%;
 }
 .a{
     float: right;
@@ -83,6 +80,9 @@ float: left;
     color: antiquewhite;
     font-size: large;
     font-weight: 500;
+    border-radius: 5px;
+    border: 1px solid #EC4067;
+
 }
 #link{
     color: aliceblue;
@@ -122,4 +122,8 @@ div{
 }
 .Graduation{
 margin-left: 20%;
+}
+.section-5{
+    display: flex;
+    width: 800px;
 }
