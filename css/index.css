@@ -65,14 +65,15 @@
 }
 .sec{
     display: flex;
-    flex-direction:row ;
+    flex-direction:row;
 }
 .fin{
     display: flex;
     flex-direction: row;
 }
 .bike{
-    margin-left: 20%;
+    margin-left: 50%;
+    margin-bottom: 20px;
 }
 .a{
     float: right;
@@ -127,6 +128,7 @@ margin-left: 20%;
 .section-5{
     display: flex;
     width: 800px;
+    margin-bottom: 20%;
 }
 .pi{
     background-color: #EC4067;
@@ -135,4 +137,20 @@ margin-left: 20%;
     font-weight: 500;
     border-radius: 5px;
     border: 1px solid #EC4067;
+}
+#meet{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.od{
+    font-size: large;
+}
+.Gp{
+    font-size:large;
+}
+.tma{
+    margin-left: 3%;
+}
+.tmb{
+    margin-left: 3%;
 }
