@@ -46,7 +46,7 @@ As a user of this site,you will be able to:
   [Go Back to the top](#Moringa-School)
 ### Live Link
 
- Click this link to view the live application 
+ Click this link to view the live application  https://christopherchinia.github.io/Chinia-s_First_Access-Project-/ 
 
  ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
@@ -67,4 +67,6 @@ copies or substantial portions of the Software.
 [Go Back to the top](#moringa-school)
 
 ## Authors Info
-Slack Profile - [Christopher Chinia]
+Email - [Christopher Chinia]
+(chinia214@gmail.com)
+[Go Back to the Top](#moringa-school)
