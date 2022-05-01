@@ -65,7 +65,7 @@
 }
 .sec{
     display: flex;
-    flex-direction:row ;
+    flex-direction:row;
 }
 .fin{
     display: flex;
@@ -135,4 +135,14 @@ margin-left: 20%;
     font-weight: 500;
     border-radius: 5px;
     border: 1px solid #EC4067;
+}
+#meet{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.od{
+    font-size: large;
+}
+.Gp{
+    font-size:large;
 }
